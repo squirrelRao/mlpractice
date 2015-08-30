@@ -1,3 +1,3 @@
 # mlpractice
 
-meachine learnig practices
+meachine learning practices & interesting challenges
